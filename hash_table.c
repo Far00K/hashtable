@@ -170,7 +170,8 @@ int hashtable_add(hashtable **htp, int key, int value){
     }
   }
 
-return 1;
+  return 1;
 }
+
 
 
